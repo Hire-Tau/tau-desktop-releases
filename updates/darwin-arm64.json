@@ -1,1 +1,15 @@
-{"currentRelease":"0.0.0","releases":[]}
+{
+  "currentRelease": "0.1.1",
+  "releases": [
+    {
+      "version": "0.1.1",
+      "updateTo": {
+        "version": "0.1.1",
+        "name": "0.1.1",
+        "url": "https://github.com/Hire-Tau/tau-desktop-releases/releases/download/v0.1.1/Tau-0.1.1-darwin-arm64.zip",
+        "sha256": "c8a2fc45a52efe9759d935358e3ad4c608f7d35f138dfc5cb9eb0bcedef486c5",
+        "size": 265812948
+      }
+    }
+  ]
+}
