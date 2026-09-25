@@ -1,14 +1,14 @@
 {
-  "currentRelease": "0.4.2",
+  "currentRelease": "0.4.3",
   "releases": [
     {
-      "version": "0.4.2",
+      "version": "0.4.3",
       "updateTo": {
-        "version": "0.4.2",
-        "name": "0.4.2",
-        "url": "https://github.com/Hire-Tau/tau-desktop-releases/releases/download/v0.4.2/Tau-0.4.2-darwin-arm64.zip",
-        "sha256": "e53e43f00661100349c2626cc9a4f4a06142ca7018235161d5fbcc4a561876f6",
-        "size": 240615757
+        "version": "0.4.3",
+        "name": "0.4.3",
+        "url": "https://github.com/Hire-Tau/tau-desktop-releases/releases/download/v0.4.3/Tau-0.4.3-darwin-arm64.zip",
+        "sha256": "bbe03df55e5b638c042513285bd0c5f540a9da702d5e90cae8722083da87ffca",
+        "size": 240622262
       }
     }
   ]
